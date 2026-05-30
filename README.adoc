@@ -429,7 +429,7 @@ link:00._Course_Material/02._Slides/09._Testing_Security/02._devsecops.md[DevSec
 // DevSecOps
 
 link:00._Course_Material/02._Slides/09._Testing_Security/03._docker_firewalls.md[Docker / Firewalls]
-Docker / Firewalls
+// Docker / Firewalls
 
 link:00._Course_Material/02._Slides/09._Testing_Security/04._security_in_github.md[Security in GitHub]
 // Security in GitHub
