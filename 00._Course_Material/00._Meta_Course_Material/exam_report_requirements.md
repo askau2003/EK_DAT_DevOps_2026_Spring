@@ -45,16 +45,17 @@ https://youtu.be/5CUF3bgazCE?t=35
 
 Justifying text helps readability and gives the report a professional look.
 
+- Use a tool to include code snippets as text instead of screenshots.
 
 ---
 
-## Sections to include
+## Writing
 
-Since the mandatories specify a set of documents that you must bring to the exam, it would be interesting to allow you complete freedom for the exam report. 
+Provide a snapshot of the current system. Explain the system, not your process. Diagrams convey this information well. 
 
-Giving an overview of the setup with diagram(s) is a good start, though.
+Know your audience. You don't have to explain what the project is about to me. Or, as an example, what Grafana is. 
 
-My advice: Keep it concise!
+Outside of reflections, if you are writing prosa that is more than 2-3 sentences then you are probably doing something wrong. If it helps, avoid words like “we”.  My advice: Keep it concise!
 
 ---
 

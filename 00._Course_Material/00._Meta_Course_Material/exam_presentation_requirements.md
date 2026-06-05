@@ -10,7 +10,7 @@ This is taken directly from the source of truth, [Kea Katalog](https://katalog.k
 
 Remember that the allotted time always includes getting into the room, setting up and getting out. I recommend that you try to connect your computer to the projector in the exact room ahead of the exam. Maybe have a backup and have the demo ready on more than one computer.
 
-Only have one laptop open. No timers. No notes. 
+Only have one laptop open. No timers. No notes.
 
 ---
 
@@ -26,6 +26,8 @@ Starting with an agenda brings little value. Just jump straight into the demo.
 
 Focus on demoing every outward facing part. Your project management. Your documentation etc. 
 
+Don't walk through code unless there is a strong reason for it. 
+
 Both censor and I know what `whoknows` is. You can briefly flash the website without demoing it since it’s probably the least interesting part of your system. 
 
 You can safely assume that we have read the report.
@@ -36,17 +38,16 @@ If you choose to show SonarQube Cloud it is more interesting to show how you've 
 
 # Advice for the individual examination
 
-Study based on the learning goals in the semester plan. 
+The project is a big part of the grade. Use the individual to be honest, transparent with your self-reflection.
+
+Study based on the learning goals in the semester plan.
 
 Have the following ready:
 
 - The exam report
 - Relevant tabs open for the website, monitoring, CI/CD pipeline, documentation, etc.
-- The mandatories
 
-The individual examination is incredibly short (20 minutes including voting).
-
-Expect a lot of rapid-fire questions and try to provide short answers.
+The individual examination is incredibly short so expect a lot of rapid-fire questions and try to provide short answers.
 
 I have a mental checklist of things I want to get answers to.
 

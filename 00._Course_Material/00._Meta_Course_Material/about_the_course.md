@@ -123,6 +123,8 @@ This overview is to make you see the future milestones and know how to pace your
 
 #### Remember!!!! I really want the Teams room to be lively. If you make it nice to post in the channels, then you improve the overall course experience for yourselves.
 
+I try to be available after classes if your group needs to discuss more personal matters. Otherwise, I will refer you to the Teams channel.
+
 
 Teams subchannels:
 
@@ -180,7 +182,8 @@ Make Pull Requests to suggest changes. It can be anything from fixing typos, imp
 
 ## AI Usage
 
-You are permitted to use AI for the course. You still have to understand what is generated for the exam.
+You are permitted to use AI for the course but you still have to understand what is generated for the exam.
 
-You will learn about the limitations of AI. AI can write code but not software. LLM's will never understand the full context of systems.
+I recommend that you write all documentation yourselves for the highest personal benefit.
 
+You are not allowed to use AI for the exam report.
