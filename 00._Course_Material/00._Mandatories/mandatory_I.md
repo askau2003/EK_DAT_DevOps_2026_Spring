@@ -22,12 +22,12 @@ The links must be public.
 
 ## The assignments
 
-[Create a dependency graph](../01._Introduction/02._After/create_a_dependency_graph.md)
+[Create a dependency graph](../01._Introduction/01._Assignments/02._After/create_a_dependency_graph.md)
 
-[Problems with the codebase](../01._Introduction/02._After/problems_with_the_codebase.md)
+[Problems with the codebase](../01._Introduction/01._Assignments/02._After/problems_with_the_codebase.md)
 
-[Generate your own OpenAPI specification](../02._Conventions_OpenAPI_DotEnv/02._After/generate_openapi_specification.md)
+[Generate your own OpenAPI specification](../02._Conventions_OpenAPI_DotEnv/01._Assignments/02._After/generate_openapi_specification.md)
 
-[Choose a branching strategy](../04._Sofware_Quality_Linting_CI/02._After/choose_a_git_branching_strategy.md)
+[Choose a branching strategy](../04._Sofware_Quality_Linting_CI/01._Assignments/02._After/choose_a_git_branching_strategy.md)
 
 

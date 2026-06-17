@@ -39,6 +39,6 @@ Start reading from "*The goal of writing this book* [...]" and continue to the e
 
 ## Read DevOps Literature II
 
-Note that there is more reading material for before the guest lecture next week. It can be found [here](../../07._Guest_Lecture/01._Before/read_devops_literature_II.md).
+Note that there is more reading material for before the guest lecture next week. It can be found [here](../../../07._Guest_Lecture/01._Assignments/01._Before/read_devops_literature_II.md).
 
 The task of reading the literature before the guest lecture is of a higher priority to the Continuous Delivery assignment. 

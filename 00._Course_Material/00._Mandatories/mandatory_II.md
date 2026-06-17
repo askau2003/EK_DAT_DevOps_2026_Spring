@@ -22,13 +22,13 @@ The links must be public.
 
 ## The assignments
 
-Reflect on how your group uses version control. Inspired by [Branching Strategy](../04._Sofware_Quality_Linting_CI/02._After/choose_a_git_branching_strategy.md) and other Git / Github related assignments. 
+Reflect on how your group uses version control. Inspired by [Branching Strategy](../04._Sofware_Quality_Linting_CI/01._Assignments/02._After/choose_a_git_branching_strategy.md) and other Git / Github related assignments. 
 
-[How are you DevOps?](../07._Guest_Lecture/02._After/how_are_you_devops.md)
+[How are you DevOps?](../07._Guest_Lecture/01._Assignments/02._After/how_are_you_devops.md)
 
-[Software Quality](../04._Sofware_Quality_Linting_CI/02._After/software_quality.md)
+[Software Quality](../04._Sofware_Quality_Linting_CI/01._Assignments/02._After/software_quality.md)
 
-[Monitoring Realization](../11._Searching_Logging_Monitoring_Serverless/02._After/monitoring_realization.md)
+[Monitoring Realization](../11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring_realization.md)
 
 ---
 
